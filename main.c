@@ -7,5 +7,6 @@ int  main(void)
        scanf("%d %d",&x,&y);
        printf("sum=%d\n",add(x,y));
        printf("sub=%d\n",sub(x,y));
+       printf("successed!");
        return 0;       
 }
